@@ -44,7 +44,7 @@ public class TrackingServiceTest {
     @Category({ApprovedTestsCategory.class, InProcessTestsCategory.class})
     public void testRemoveProtein() {
         service.removeProtein(10);
-        assertEquals("the value must be zero", 0, service.getTotal());
+        assertEquals("the value must be zero;", 0, service.getTotal());
     }
 
     @Ignore
