@@ -37,7 +37,7 @@ public class TrackingServiceTest {
         service.addProtein(10);
         //assertEquals("the value must be 10", 10, service.getTotal());
         //assertThat(service.getTotal(), is(10));
-        assertThat(service.getTotal(), allOf(is(10), instanceOf(Integer.class)));
+        assertThat(service.getTotal(), allOf(is(15), instanceOf(Integer.class)));
     }
 
     @Test
