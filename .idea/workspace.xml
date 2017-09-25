@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9698381f-fb67-4ab6-bf39-aa314c701716" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tests/com/simpleprogrammer/proteintracker/TrackingServiceTest.java" afterPath="$PROJECT_DIR$/Tests/com/simpleprogrammer/proteintracker/TrackingServiceTest.java" />
-    </list>
+    <list default="true" id="9698381f-fb67-4ab6-bf39-aa314c701716" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -525,7 +522,7 @@
       <workItem from="1505972042055" duration="594000" />
       <workItem from="1505992074253" duration="11610000" />
       <workItem from="1506178195491" duration="933000" />
-      <workItem from="1506345189142" duration="929000" />
+      <workItem from="1506345189142" duration="1413000" />
     </task>
     <servers />
   </component>
@@ -562,7 +559,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44814000" />
+    <option name="totallyTimeSpent" value="45298000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
